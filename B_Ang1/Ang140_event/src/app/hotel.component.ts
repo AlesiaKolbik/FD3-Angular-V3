@@ -37,4 +37,8 @@ export class HotelComponent {
     return this.photo;
   };
 
+  // getTime():string {
+  //   return (new Date()).toString();
+  // };
+
 }
